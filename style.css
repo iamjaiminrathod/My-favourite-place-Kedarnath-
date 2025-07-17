@@ -32,7 +32,7 @@ body {
     }
 
     .main {
-      background: url('bg.jpg') center/cover no-repeat;
+      background: url('https://i.pinimg.com/736x/e5/1a/2c/e51a2c91647858284dab3c5a3875ec58.jpg') center/cover no-repeat;
       height: 80vh;
       display: flex;
       align-items: center;
